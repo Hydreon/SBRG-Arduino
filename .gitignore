@@ -1,0 +1,27 @@
+# Compiled files
+*.o
+*.a
+*.elf
+
+# Arduino build folder (if using CLI or Arduino 1.x)
+build/
+*.hex
+*.bin
+*.eep
+*.map
+*.d
+
+# Arduino IDE 2.x cache and config files
+.arduino/
+
+# Mac and Windows junk
+.DS_Store
+Thumbs.db
+
+# Backup and autosave files
+*~
+*.swp
+*.bak
+
+# Logs
+*.log
